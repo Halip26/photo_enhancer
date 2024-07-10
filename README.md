@@ -24,21 +24,21 @@ To run locally, run this command on your git bash:
 Linux, Windows and macOS:
 
 ```bash
-sudo git clone https://github.com/Halip26/image_enhancer.git
+sudo git clone https://github.com/Halip26/photo_enhancer.git
 ```
 
 ```bash
-cd image_enhancer
+cd photo_enhancer
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Halip26/image_enhancer.git
+git clone https://github.com/Halip26/photo_enhancer.git
 ```
 
 ```bash
-cd image_enhancer
+cd photo_enhancer
 ```
 
 Run on terminal:
@@ -47,7 +47,7 @@ Run on terminal:
 $python.exe .\main.py
 ```
 
-## Image Enhancer API requests
+## Photo Enhancer API requests
 
 A Python API wrapper for Enhance your pictures using [cutout.pro](https://www.cutout.pro/)'s [API](https://www.cutout.pro/api).
 

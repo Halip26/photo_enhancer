@@ -15,7 +15,7 @@ def upScaling(img):
         stream=True,  # Enable streaming response content
     )
 
-    # get respose content length in bytes
+    # get response content length in bytes
     total_length = int(response.headers.get("content-length", 0))
 
     # create progress bar
